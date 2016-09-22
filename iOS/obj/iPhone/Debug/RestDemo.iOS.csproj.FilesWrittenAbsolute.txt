@@ -1,0 +1,13 @@
+/Users/user/Projects/RestDemo/iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/user/Projects/RestDemo/iOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/user/Projects/RestDemo/iOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/user/Projects/RestDemo/iOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/user/Projects/RestDemo/iOS/obj/iPhone/Debug/build-iphone7.2-10.0.1/optimized/
+/Users/user/Projects/RestDemo/iOS/bin/iPhone/Debug/RestDemo.dll
+/Users/user/Projects/RestDemo/iOS/bin/iPhone/Debug/RestDemo.dll.mdb
+/Users/user/Projects/RestDemo/iOS/bin/iPhone/Debug/System.Net.Http.dll
+/Users/user/Projects/RestDemo/iOS/bin/iPhone/Debug/System.Net.Http.Primitives.dll
+/Users/user/Projects/RestDemo/iOS/bin/iPhone/Debug/RestDemo.iOS.exe.mdb
+/Users/user/Projects/RestDemo/iOS/bin/iPhone/Debug/RestDemo.iOS.exe
+/Users/user/Projects/RestDemo/iOS/obj/iPhone/Debug/RestDemo.iOS.exe
+/Users/user/Projects/RestDemo/iOS/obj/iPhone/Debug/RestDemo.iOS.exe.mdb
